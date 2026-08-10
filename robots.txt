@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: slot-minotavr-strategiya.github.io
+Sitemap: https://slot-minotavr-strategiya.github.io/sitemap.xml
